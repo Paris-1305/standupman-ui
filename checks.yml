@@ -16,7 +16,7 @@ linter:
       - semi: error
   code_compilation:
   - name: compile
-    command: npm run build
-  unit_tests:
-  - name: run_tests
-    command: npm test
+    command: npm run build\n
+  unit_tests:\n
+  - name: run_tests\n
+    command: npm test\n
