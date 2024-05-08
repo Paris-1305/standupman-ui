@@ -11,25 +11,25 @@
         <form class="update-profile-details-form">
           <div class="form-group">
               <label for="username">Username</label>
-              <input id="update" type="text" value="nfebenoel">
+              <input type="text" value="nfebenoel">
           </div>
           <div class="form-group">
               <label for="firstname">First Name</label>
-              <input id="update" type="text" value="nfebe">
+              <input type="text" value="nfebe">
           </div>
           <div class="form-group">
               <label for="firstname">Last Name</label>
-              <input id="update" type="text" value="noel">
+              <input type="text" value="noel">
           </div>
           <div class="form-group">
               <label for="password">Password</label>
               <div class="input-with-link-form-group">
-                  <input id="update" type="password" value="kdkdllslsls">
+                  <input type="password" value="kdkdllslsls">
                   <a href="#" class="text-primary">Change?</a>
               </div>
           </div>
           <div class="form-group">
-              <input  type="submit" value="Save">
+              <input type="submit" value="Save">
           </div>
         </form>
         <div class="update-profile-picture-container">
