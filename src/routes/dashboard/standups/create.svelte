@@ -81,13 +81,14 @@
               <div class="form-group u-margin-bottom-small">
                 <label for="question-name">Question Name</label>
                 <input
+               class='questionaire'
                   type="text"
                   placeholder="Enter Standup name Here"
                 />
               </div>
               <div class="form-group u-margin-bottom-small">
                 <label for="question-type">Type</label>
-                <select name="question-type" id="">
+                <select name="question-type" id="" class='questionaire'>
                   <option value="">Select a Type</option>
                 </select>
               </div>

@@ -321,9 +321,6 @@ select {
     padding-bottom: 20px;
     margin-top: 8px;
   }
-  .sidebar {
-    width: 100%;
-  }
   .past-activities-container{
     display: flex;
     flex-direction: column;
@@ -357,6 +354,7 @@ select {
 .main-content .text-container {
   width: 30%;
 }
+
 @media only screen and (max-width: 500px), screen and (max-width: 900px){
  
   .text-container .para{
@@ -387,6 +385,7 @@ select {
   .dashboard-landing-footer .logo-box .logo{
     width: 150%;
   }
+ 
 }
 .main-content .text-container > p:first-of-type{
  color: var(--color-violet);
@@ -401,6 +400,7 @@ select {
   font-size: 50px;
   padding-bottom: 1.5rem;
 }
+
 
 .main-content .text-container a {
   font-size: 20px;
